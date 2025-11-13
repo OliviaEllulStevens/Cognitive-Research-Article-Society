@@ -2,15 +2,15 @@
 #### Cognitive Research Article Society (CRAS) is an academic society at the University of Sussex🧠⚙️ 
 This repository stores the society's resources, including:
 
- - The academic paper;
- - The powerpoint slides including the discussion prompts;
- -  Slides from presentations.
+ - Academic papers discussed;
+ - Powerpoint slides from each meet;
+ - All other resources.
 
 
 For more details or to get involved, contact Róisín (rs843@sussex.ac.uk).
 
 ## CRAS Agenda📝
-#### Our aim is increase engagement in cognitive science. This is a collaborative learning environment designed to help you gain confidence in engaging in academic discussions.
+#### Our aim is to increase engagement in cognitive science. This is a collaborative learning environment designed to help you gain confidence when engaging in academic discussions.
 So please note, this is a society for anyone who is interested in cognitive science. This society is fun specifically because it attracts people with naturally different knowledge and ideas, sparking interesting conversations! After-all, we need discrepancies in understanding for teaching and learning.
 <br>
 <br>
@@ -19,7 +19,7 @@ So please note, this is a society for anyone who is interested in cognitive scie
 
 -   Create a supportive space for cognitively-interested members of the university to help each other on their learning journeys and express their passion for cognitive science together!
 
--   Develop academic skills in critical thinking and theoretical knowledge. This will mainly come from practice in forming ideas about cognitive research articles and effectively articulating this to others.
+-   Develop academic skills in critical thinking, theoretical knowledge and articulating ideas.
 
 -   For those interested in a career path in cognitive science, this can also be a space to gain encouragement and feel excited about pursuing a professional identity as a cognitive researcher, by developing complimenting soft and hard skills, and gaining networking opportunities when we go to seminars.
 
